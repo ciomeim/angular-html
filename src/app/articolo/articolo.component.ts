@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { Artic }  from './'
 @Component({
   selector: 'app-articolo',
   templateUrl: './articolo.component.html',
